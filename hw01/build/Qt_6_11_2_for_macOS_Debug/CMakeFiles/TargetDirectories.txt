@@ -1,0 +1,7 @@
+/Users/jenniferwang/Desktop/CIS 5600 CG/hw01/build/Qt_6_11_2_for_macOS_Debug/CMakeFiles/hw01.dir
+/Users/jenniferwang/Desktop/CIS 5600 CG/hw01/build/Qt_6_11_2_for_macOS_Debug/CMakeFiles/edit_cache.dir
+/Users/jenniferwang/Desktop/CIS 5600 CG/hw01/build/Qt_6_11_2_for_macOS_Debug/CMakeFiles/rebuild_cache.dir
+/Users/jenniferwang/Desktop/CIS 5600 CG/hw01/build/Qt_6_11_2_for_macOS_Debug/CMakeFiles/list_install_components.dir
+/Users/jenniferwang/Desktop/CIS 5600 CG/hw01/build/Qt_6_11_2_for_macOS_Debug/CMakeFiles/install.dir
+/Users/jenniferwang/Desktop/CIS 5600 CG/hw01/build/Qt_6_11_2_for_macOS_Debug/CMakeFiles/install/local.dir
+/Users/jenniferwang/Desktop/CIS 5600 CG/hw01/build/Qt_6_11_2_for_macOS_Debug/CMakeFiles/install/strip.dir
